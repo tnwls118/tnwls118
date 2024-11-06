@@ -3,9 +3,7 @@
 <img width="50%" src="https://user-images.githubusercontent.com/80378085/150538122-d0c8472f-4b8c-4544-a35c-27c398234308.gif"/>
 
 <!-- info -->
-### :wave: 30대 아저씨의 코딩 일기
-
-초조해하지 말고 꾸준히📖📖
+### :wave: 30대 아저씨의 코딩 일기📖📖
 
 
 
